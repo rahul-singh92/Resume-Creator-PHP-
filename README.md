@@ -41,3 +41,20 @@ CREATE TABLE user (
   username VARCHAR(100) NOT NULL,
   password VARCHAR(100) NOT NULL
 );
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🧾 Register Page
+![Register Page](screenshots/register.png)
+
+### 📝 Resume Form
+![Resume Form](screenshots/resume-form.png)
+
+### 🖨️ One Page Resume
+![One Page Resume](screenshots/one-page-resume.png)
+
+### 📰 Two Column Resume
+![Two Column Resume](screenshots/two-column-resume.png)
